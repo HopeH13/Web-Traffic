@@ -1,0 +1,47 @@
+body {
+	font: 100% "Courier";
+	background-color:#008B8B;
+	font-weight:bold;
+	border:solid;
+	border-color:black;
+	border-width: 4px;
+	border-left-width:
+4px;
+	border-right-width:
+4px;
+}
+
+table {
+	border-collapse: collapse;
+	 border-spacing:50px;
+	 background-color:#556B2F;
+	 
+}
+
+caption{
+	font-size:32px;
+	margin-bottom:.5em;
+}
+
+th,
+td
+{
+	font-size:22px;
+	padding: 15px;
+	text-align:center;
+	
+}
+
+td{
+	border: 1px solid #000;
+}
+
+.center {
+	margin-left: auto;
+	margin-right:auto;
+}
+
+p {
+	font-size:24px;
+	text-align:center;
+}
